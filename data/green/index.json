@@ -4,7 +4,7 @@
   0.05,
   0.08
  ],
- "generated": "2026-10-09",
+ "generated": "2026-11-03",
  "regions": [
   {
    "name": "Hamburg",
@@ -14,8 +14,8 @@
     "n": 54.062613000000006,
     "s": 53.391826
    },
-   "anchors": 6569,
-   "loops": 2126
+   "anchors": 6571,
+   "loops": 2123
   },
   {
    "name": "Berlin",
